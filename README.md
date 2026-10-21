@@ -13,12 +13,12 @@ Proyek ini adalah tugas mata kuliah Big Data yang bertujuan untuk memprediksi ke
 2. **Pemodelan**: Menggunakan algoritma *Random Forest Classifier* untuk melatih data.
 3. **Evaluasi**: Menghitung akurasi model dan menampilkan *Confusion Matrix*.
 
-## 📈 Hasil
+# Hasil
 * **Akurasi Model:** 75.63%
 * Visualisasi hasil dapat dilihat pada file gambar di repositori ini:
   * `confusion_matrix.png`
   * `feature_importance.png`
 
-## 🚀 Cara Menjalankan Program
+#  Cara Menjalankan Program
 1. Pastikan library terinstal: `pip install pandas numpy scikit-learn matplotlib seaborn`
 2. Jalankan file utama: `python main.py`
